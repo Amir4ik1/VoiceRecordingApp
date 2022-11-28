@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recordFragment"
+        android:icon="@drawable/ic_micro_white_36dp"
+        android:title="Запись" />
+    <item
+        android:id="@+id/recordListFragment"
+        android:icon="@drawable/ic_playlist_play_36dp"
+        android:title="Список" />
+</menu>
